@@ -92,8 +92,7 @@ def main():
             "iceServers": get_ice_servers(),
             "iceTransportPolicy": "relay",
         },
-        video_frame_callback=video_frame_callback,
-        media_stream_constraints={"video": True, "audio": False},
+        video_processor_factory=HandTrackingTransformer,
         async_processing=True,
     )
 
