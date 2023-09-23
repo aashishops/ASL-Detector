@@ -1,5 +1,5 @@
 pip>=21.3
-opencv-python==4.5.3
+opencv_python==4.8.0.76
 mediapipe==0.8.7
 numpy==1.21.2
 streamlit==1.0.0
