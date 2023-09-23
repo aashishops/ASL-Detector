@@ -1,4 +1,3 @@
-pip
 opencv_python
 mediapipe
 numpy
