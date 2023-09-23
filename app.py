@@ -5,7 +5,6 @@ import numpy as np
 import time
 import streamlit as st
 from streamlit_webrtc import WebRtcMode, VideoTransformerBase, webrtc_streamer
-from turn import get_ice_servers
 
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
@@ -88,10 +87,6 @@ def main():
     webrtc_ctx = webrtc_streamer(
         key="hand-tracking",
         mode=WebRtcMode.SENDRECV,
-        rtc_configuration={
-            "iceServers": get_ice_servers(),
-            "iceTransportPolicy": "relay",
-        },
         video_processor_factory=HandTrackingTransformer,
         async_processing=True,
     )
