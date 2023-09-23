@@ -1,7 +1,6 @@
-mediapipe==0.10.5
-numpy==1.24.3
-opencv_contrib_python==4.8.0.76
-opencv_python==4.8.0.76
-pandas==1.5.3
-streamlit==1.27.0
-streamlit_webrtc==0.47.0
+opencv-python==4.5.3
+mediapipe==0.8.7
+numpy==1.21.2
+streamlit==1.0.0
+scikit-learn==0.24.2
+streamlit-webrtc==0.17.0
