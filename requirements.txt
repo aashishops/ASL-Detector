@@ -1,7 +1,7 @@
-pip>=21.3
-opencv_python==4.8.0.76
-mediapipe==0.10.5
-numpy==1.21.2
-streamlit==1.0.0
-scikit-learn==0.24.2
-streamlit-webrtc==0.17.0
+pip
+opencv_python
+mediapipe
+numpy
+streamlit
+scikit-learn
+streamlit-webrtc
