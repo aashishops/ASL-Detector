@@ -1,4 +1,3 @@
-twilio
 opencv-python-headless
 mediapipe
 numpy
