@@ -5,7 +5,7 @@ import numpy as np
 import time
 import streamlit as st
 from streamlit_webrtc import WebRtcMode, VideoTransformerBase, webrtc_streamer
-st.set_page_config(page_title='Language Detection')
+st.set_page_config(page_title='ASL Detection')
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
@@ -82,7 +82,7 @@ class HandTrackingTransformer(VideoTransformerBase):
         return np.array(data)
 
 def main():
-    st.title("ASL Sign Language Detection with Hand Tracking")
+    st.title("American Sign Language Detection with Hand Tracking")
 
     webrtc_ctx = webrtc_streamer(
         key="hand-tracking",
