@@ -15,6 +15,8 @@ The ASL Sign Language Detector is a powerful tool designed to recognize and inte
 
  [Click here <img src=https://raw.githubusercontent.com/aashishops/ASL-Detector/main/images/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit Logo" width="25">](https://asl-detector.streamlit.app/) to Detect the Sign Language
 
+ [Click here <img src="https://raw.githubusercontent.com/aashishops/Language-Detection-Tatoeba/main/images/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit Logo" width="25">](https://language-detector.streamlit.app/) to Detect the Sign Languages
+
 - [Open the Link](https://asl-detector.streamlit.app/)
 - Click the Start Button to turn on the camera and ensure there is enough light
 ![To Start](https://raw.githubusercontent.com/aashishops/ASL-Detector/main/images/ezgif-1-d9627fd4d4.gif)
