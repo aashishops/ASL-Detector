@@ -1,5 +1,5 @@
 # Sign Language Detector 🤙☝️👆👌🤞
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://github.com/aashishops/Language-Detection-Tatoeba/tree/main#readme) 
+[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://github.com/aashishops/ASL-Detector/blob/main/README.Md) 
 [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://asl-detector.streamlit.app/)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://asl-detector.streamlit.app/)
 
