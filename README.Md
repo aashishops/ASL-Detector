@@ -20,6 +20,7 @@ The ASL Sign Language Detector is a powerful tool designed to recognize and inte
 ![To Start](https://raw.githubusercontent.com/aashishops/ASL-Detector/main/images/ezgif-1-d9627fd4d4.gif)
  
  - Show some ASL Signs For it to Detect
+
  ![To Detect](https://raw.githubusercontent.com/aashishops/ASL-Detector/main/images/ezgif-1-8c2f960ba0.gif)
 
  - Click Stop to Turn off the Camera.
